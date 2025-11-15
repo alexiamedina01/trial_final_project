@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: trial-final-project
+Version: 0.1.0
+Requires-Python: >=3.14
+Requires-Dist: ipykernel>=7.1.0
+Requires-Dist: matplotlib>=3.10.7
+Requires-Dist: pandas>=2.3.3
+Requires-Dist: seaborn>=0.13.2
